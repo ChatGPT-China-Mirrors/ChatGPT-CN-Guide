@@ -1,6 +1,6 @@
-# ChatGPT 中文版：国内免费直连指南（支持GPT-4、4o、o1、o3 和 DeepSeek R1，无需翻墙）【5月最新】
+# ChatGPT 中文版：国内免费直连指南（支持GPT-4、4o、o1、o3 和 DeepSeek R1，无需翻墙）【6月最新】
 
-> **更新时间：2025/05/17**          
+> **更新时间：2025/06/11**          
 
 本文提供全面的 **[ChatGPT 中文版](https://xsimplechat.com)使用指南**，推荐国内镜像网站，支持GPT-4和GPT-3.5，无需翻墙。了解如何快速使用 **[ChatGPT 中文版](https://xsimplechat.com)**，提升工作效率。
 
@@ -8,7 +8,7 @@
 
 ## 快速开始 - 推荐的 ChatGPT 中文版服务：
 ChatGPT 中文版：[https://xsimplechat.com/](https://xsimplechat.com)   
-ChatGPT 镜像网站：[https://chat.lanjing.pro/](https://chat.lanjing.pro/) 
+ChatGPT 镜像网站：[https://chat.lanjingai.org/](https://chat.lanjingai.org/) 
 
 ---
 
@@ -42,7 +42,7 @@ ChatGPT 镜像网站：[https://chat.lanjing.pro/](https://chat.lanjing.pro/)
 | **镜像站地址**       | **支持版本**         | **免费额度** | **注册方式**         | **稳定性** | **功能亮点**                                  |
 |----------------------|---------------------|--------------|---------------------|------------|---------------------------------------------|
 | [xsimplechat.com](https://xsimplechat.com)   | GPT-4, GPT-3.5，deepseek-r1 | 有              | 国内邮箱支持        | ⭐⭐⭐⭐⭐    | 支持 GPT-4o，内置 MJ 绘图，适合开发者与普通用户 |
-| [chat.lanjing.pro](https://chat.lanjing.pro)         | GPT-4, GPT-o1, Claude, deepseek-r1，MJ 绘图  | 有              | 国内邮箱支持        | ⭐⭐⭐⭐⭐    | 支持GPT-o1模型，一比一还原官网，可以使用实时语音对话，视频对话         |
+| [chat.lanjingai.org](https://chat.lanjingai.org)         | GPT-4, GPT-o1, Claude, deepseek-r1，MJ 绘图  | 有              | 国内邮箱支持        | ⭐⭐⭐⭐⭐    | 支持GPT-o1模型，一比一还原官网，可以使用实时语音对话，视频对话         |
 | [chat.yixiaai.com](https://chat.yixiaai.com)   | GPT-4, GPT-3.5，deepseek-r1 | 有              | 国内邮箱支持        | ⭐⭐⭐⭐⭐    | 支持 GPT-4o，内置 MJ 绘图，适合开发者与普通用户 |
 | [cgn.lify.vip](https://cgn.lify.vip) | GPT-4, GPT-3.5,MJ | 有              | 国内邮箱支持        | ⭐⭐⭐⭐     | 支持开发者 API，提供长时间服务                 |
 | [yixiaai.cn](https://yixiaai.cn)   | AI工具集       | 有              | 国内邮箱支持        | ⭐⭐⭐      | 使用简单，适合基础聊天用途                     |
